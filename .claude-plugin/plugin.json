@@ -1,0 +1,8 @@
+{
+  "name": "paper-board-game",
+  "version": "1.0.0",
+  "description": "Make a fully physical, home-made board game with code behind it: spec, single data file, rules engine, bots and balance simulations, and print-ready CMYK files (board, cards, team aid) with checks. Includes a working starter project.",
+  "author": { "name": "mathispesai" },
+  "license": "MIT",
+  "keywords": ["board-game", "game-design", "print", "cmyk", "simulation", "party-game"]
+}

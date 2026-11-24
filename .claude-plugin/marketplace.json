@@ -1,0 +1,12 @@
+{
+  "name": "paper-games",
+  "owner": { "name": "mathispesai" },
+  "metadata": { "description": "Skills for making home-made paper games." },
+  "plugins": [
+    {
+      "name": "paper-board-game",
+      "source": "./",
+      "description": "Make a fully physical, home-made board game with code behind it: spec, rules engine, balance simulations and print-ready CMYK files."
+    }
+  ]
+}

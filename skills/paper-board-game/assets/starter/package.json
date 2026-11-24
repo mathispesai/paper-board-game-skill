@@ -1,0 +1,17 @@
+{
+  "name": "voorbeeldspel",
+  "version": "0.1.0",
+  "description": "Paper board game: rules engine, simulations and print files from one data file.",
+  "type": "module",
+  "private": true,
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "balance": "node scripts/balance.mjs",
+    "browser": "playwright install chromium",
+    "print": "node scripts/print-all.mjs"
+  },
+  "devDependencies": {
+    "playwright": "1.63.0"
+  }
+}
